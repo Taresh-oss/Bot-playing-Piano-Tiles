@@ -14,7 +14,7 @@ import pyautogui
 pyautogui.DisplayMousePosition()
 ```
 
-As we want our bot to click on piano tiles we can get the RGB values of that pixel using the same function mentioned above and pass 0 in case of black as I have mentioned in my code.
+As we want our bot to click on piano tiles, we can get the RGB values of that pixel using the same function mentioned above and pass 0(Black) for the RGB value as I have mentioned in my code.
 
 
 

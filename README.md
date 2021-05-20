@@ -3,6 +3,9 @@
 It is a very easy task and requires very short script to be written but for a change it feels amazing when you get the bot ready.
 
 Demo of the bot playing Piano Tiles is provided in the [video](https://github.com/Taresh-oss/Bot-playing-Piano-Tiles/blob/main/Piano%20tiles%20BOT.mp4)
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/Taresh-oss/Bot-playing-Piano-Tiles/blob/main/Piano%20tiles%20BOT.mp4">
+</video>
 
 To try making such bot, the libraries that required are: 
 - pyautogui

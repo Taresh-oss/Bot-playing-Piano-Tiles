@@ -2,6 +2,8 @@
 
 It is a very easy task and requires very short script to be written but for a change it feels amazing when you get the bot ready.
 
+Demo of the bot playing Piano Tiles is provided in the [a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 To try making such bot, the libraries that required are: 
 - pyautogui
 - win32api

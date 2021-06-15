@@ -2,7 +2,7 @@
 
 It is a very easy task and requires very short script to be written but for a change it feels amazing when you get the bot ready.
 
-Demo of the bot playing Piano Tiles is provided in the [video](https://github.com/Taresh-oss/Bot-playing-Piano-Tiles/blob/main/Piano%20tiles%20BOT.mp4)
+Demo of the bot playing Piano Tiles is provided in the [video](https://www.linkedin.com/posts/taresh-dewan_python3-learningisfun-learningeveryday-activity-6795703131582853120-BKxw)
 
 To try making such bot, the libraries that required are: 
 - pyautogui
